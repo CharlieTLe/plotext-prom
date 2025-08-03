@@ -1,0 +1,9 @@
+# Plotext-Prometheus Configuration Example
+prometheus_url: "http://localhost:9090"
+width: 140
+height: 40
+
+# You can also add other settings here that might be useful
+# timeout: 30
+# default_step: "15s"
+# default_range: "1h"
