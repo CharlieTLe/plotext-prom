@@ -280,7 +280,6 @@ python plotext_prom.py -q "container_memory_usage_bytes" -r "30m"
 
 - Python 3.7+
 - plotext >= 5.2.8
-- prometheus-api-client >= 0.5.3
 - requests >= 2.28.0
 - click >= 8.0.0
 - PyYAML >= 6.0

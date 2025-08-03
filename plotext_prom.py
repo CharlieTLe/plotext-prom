@@ -6,13 +6,11 @@ Plotext-Prometheus: Graph Prometheus metrics in your terminal using plotext
 import time
 import sys
 from datetime import datetime, timedelta, timezone
-from typing import List, Dict, Any, Optional, Tuple
+from typing import Dict, Any
 import requests
 import plotext as plt
 import click
 import yaml
-import json
-
 
 class PrometheusClient:
     """Client for querying Prometheus metrics"""
