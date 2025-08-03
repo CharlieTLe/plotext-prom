@@ -184,6 +184,12 @@ Use with:
 python plotext_prom.py -q "up" -c config.yaml
 ```
 
+### Slides Integration
+
+This tool can be used to create slides for presentations. See [slides.md](slides.md) for an example of how to use it in a slide format with [slides](https://github.com/maaslalani/slides).
+
+![Example Slide](slides.png)
+
 ## Example Queries
 
 Here are some common Prometheus queries you can visualize:
